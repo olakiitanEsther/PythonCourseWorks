@@ -1,0 +1,7 @@
+print("My age: " + str(13))
+print(123 +456)
+print(3 * 2)
+print(6//2)
+print(6**2)
+print(3*3 + 3//3 -3)
+print(3*(3+3)/3-3)
